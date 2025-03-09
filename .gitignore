@@ -1,5 +1,6 @@
 # temporary lock
 .hugo_build.lock
+.DS_Store
 
 # Generated files by hugo
 /public/
