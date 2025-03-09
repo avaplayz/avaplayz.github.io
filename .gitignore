@@ -1,0 +1,6 @@
+# temporary lock
+.hugo_build.lock
+
+# Generated files by hugo
+/public/
+/resources/_gen/
