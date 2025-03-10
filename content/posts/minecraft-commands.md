@@ -10,3 +10,10 @@ tags = ["minecraft"]
 ### To change the time of day do
 
 `/time set {sunrise|sunset|day|night}`
+
+### To teleport players to a specific spot use
+`/tp [player name] [x,y,z]`
+
+### To set the location of world spawn do
+
+`/setworldspawn [x y z]`

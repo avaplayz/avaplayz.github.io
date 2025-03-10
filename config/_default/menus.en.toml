@@ -17,6 +17,7 @@
 
 [[main]]
   name = "Food"
+  pageRef = "tags/food"
   weight = 20
 
 #[[main]]
