@@ -17,7 +17,7 @@ tags = ["food"]
 
 ## Steps
 1. Mash your bananas 🍌
-2. Next mashing your bananas add yout eggs 🥚
+2. Next mashing your bananas add your eggs 🥚
 3. After mixng, measure and add your flour,baking powder, cinnamon and brown sugar 🍬
 4. Then, add your oil!
 5. Finally pre-heat your oven for 5 minutes 🔥
