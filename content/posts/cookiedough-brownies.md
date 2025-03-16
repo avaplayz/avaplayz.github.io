@@ -1,7 +1,7 @@
 +++
 date = '2025-03-12T21:15:23Z'
 draft = false
-title = 'Cookiedough Brownies'
+title = 'Cookie-dough Brownies🍪🍫'
 tags = ["food"]
 +++
 
